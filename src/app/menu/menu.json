@@ -1,0 +1,322 @@
+{
+  "seo": {
+    "title": "Pockeat Kitchen Menu | Fruit Bowls, Juices, Diet Bowls and Shakes",
+    "description": "Explore the Pockeat Kitchen menu with fruit bowls, juices, diet bowls, diet shakes, cheat meals and breads in Chennai.",
+    "canonical": "/menu",
+    "keywords": [
+      "Pockeat Kitchen menu",
+      "Pockeat Kitchen fruit bowls",
+      "Pockeat Kitchen juices",
+      "Pockeat Kitchen diet bowls",
+      "Pockeat Kitchen diet shakes",
+      "fruit bowls Chennai",
+      "protein bowls Chennai",
+      "healthy juices Taramani",
+      "Maggi Taramani"
+    ],
+    "openGraph": {
+      "title": "Pockeat Kitchen Menu",
+      "description": "Fruit bowls, juices, shakes, protein bowls and comfort meals.",
+      "image": "/images/watermelon-fruit-bowl-menu.png",
+      "imageAlt": "Fresh watermelon fruit bowl"
+    },
+    "twitter": {
+      "title": "Pockeat Kitchen Menu",
+      "description": "Fruit bowls, juices, shakes, protein bowls and comfort meals.",
+      "image": "/images/watermelon-fruit-bowl-menu.png"
+    }
+  },
+  "hero": {
+    "badge": "Pockeat Kitchen menu",
+    "title": "Our Menu",
+    "description": "Browse fruit bowls, juices, special drinks, diet bowls, diet shakes, cheat meals and breads from Pockeat Kitchen.",
+    "image": "/images/classic-fruit-bowl-mix-menu.png",
+    "imageAlt": "A classic fruit bowl mix freshly prepared",
+    "imagePosition": "center",
+    "primaryButton": {
+      "label": "Order on Zomato",
+      "href": "https://zomato.onelink.me/xqzv/62frd30f",
+      "external": true
+    },
+    "secondaryButton": {
+      "label": "Ask for Recommendations",
+      "href": "/contact"
+    },
+    "stats": [
+      { "value": "Bowls", "label": "Fresh" },
+      { "value": "Shakes", "label": "Protein" },
+      { "value": "Meals", "label": "Comfort" }
+    ],
+    "supportingImages": [
+      {
+        "image": "/images/red-banana-shake-menu.png",
+        "imageAlt": "Pockeat Kitchen red banana protein shake"
+      },
+      {
+        "image": "/images/paneer-protein-bowl-menu.png",
+        "imageAlt": "Pockeat Kitchen paneer protein bowl"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "eyebrow": "Fresh categories",
+      "title": "What We Serve",
+      "description": "Fresh categories, short choices and easy ordering support. Contact the kitchen for today's availability and recommendations."
+    }
+  ],
+  "categories": [
+    {
+      "name": "Fruit Bowls",
+      "slug": "fruit-bowls",
+      "description": "Colorful, fruit-forward bowls for a light meal or fresh snack.",
+      "image": "/images/watermelon-fruit-bowl-menu.png",
+      "imageAlt": "Fresh watermelon fruit bowl",
+      "accent": "leaf",
+      "items": [
+        {
+          "name": "Watermelon Fruit Bowl",
+          "description": "Clean, hydrating and easy for warm Chennai days.",
+          "sizes": ["Medium", "Large"],
+          "image": "/images/watermelon-fruit-bowl-menu.png",
+          "imageAlt": "Fresh watermelon fruit bowl",
+          "tag": "Fresh"
+        },
+        {
+          "name": "Muskmelon Fruit Bowl",
+          "description": "A mellow, naturally sweet bowl with a cooling finish.",
+          "sizes": ["Medium", "Large"],
+          "image": "/images/muskmelon-fruit-bowl-menu.png",
+          "imageAlt": "Muskmelon fruit bowl"
+        },
+        {
+          "name": "Papaya Fruit Bowl",
+          "description": "Soft, bright and breakfast-friendly.",
+          "sizes": ["Medium", "Large"],
+          "image": "/images/papaya-fruit-bowl-menu.png",
+          "imageAlt": "Fresh papaya fruit bowl"
+        },
+        {
+          "name": "Guava Fruit Bowl",
+          "description": "A crisp bowl with tropical flavor and a fuller bite.",
+          "sizes": ["Medium", "Large"],
+          "image": "/images/guava-fruit-bowl-menu.png",
+          "imageAlt": "Fresh guava fruit bowl"
+        },
+        {
+          "name": "Classic Fruit Bowl Mix",
+          "description": "A balanced mix for customers who want variety in one bowl.",
+          "sizes": ["Medium", "Large"],
+          "image": "/images/classic-fruit-bowl-mix-menu.png",
+          "imageAlt": "Classic mixed fruit bowl",
+          "tag": "Popular"
+        },
+        {
+          "name": "Diabetic Fruit Bowl Mix",
+          "description": "A thoughtful fruit mix designed for lighter sweetness.",
+          "sizes": ["Medium", "Large"],
+          "image": "/images/diabetic-fruit-bowl-mix-menu.png",
+          "imageAlt": "Diabetic-friendly fruit bowl mix",
+          "tag": "Diet"
+        },
+        {
+          "name": "Energetic Fruit Bowl Mix",
+          "description": "A power-packed bowl to keep you energized through the day.",
+          "sizes": ["Medium", "Large"],
+          "image": "/images/energetic-fruit-bowl-mix-menu.png",
+          "imageAlt": "Energetic fruit bowl mix",
+          "tag": "Energy"
+        }
+      ]
+    },
+    {
+      "name": "Juices",
+      "slug": "juices",
+      "description": "Fresh fruit juices and shots for a quick reset.",
+      "image": "/images/watermelon-juice-menu.png",
+      "imageAlt": "Fresh watermelon juice",
+      "accent": "citrus",
+      "items": [
+        {
+          "name": "Watermelon Juice",
+          "description": "A chilled 500ml glass of clean refreshment.",
+          "sizes": ["500ml"],
+          "image": "/images/watermelon-juice-menu.png",
+          "imageAlt": "Fresh watermelon juice in a glass"
+        },
+        {
+          "name": "Muskmelon Juice",
+          "description": "Smooth, mellow and naturally cooling.",
+          "sizes": ["500ml"],
+          "image": "/images/muskmelon-juice-menu.png",
+          "imageAlt": "Muskmelon juice in a glass"
+        },
+        {
+          "name": "Papaya Juice",
+          "description": "Soft tropical sweetness in a fresh pour.",
+          "sizes": ["500ml"],
+          "image": "/images/papaya-juice-menu.png",
+          "imageAlt": "Papaya juice in a glass"
+        },
+        {
+          "name": "Amla Shot",
+          "description": "A compact, sharp wellness shot.",
+          "image": "/images/amla-shot-menu.png",
+          "imageAlt": "Amla wellness shot",
+          "tag": "Wellness"
+        },
+        {
+          "name": "ABC Juice",
+          "description": "Apple, beetroot and carrot in a bright daily blend.",
+          "sizes": ["500ml"],
+          "image": "/images/abc-juice-menu.png",
+          "imageAlt": "Pockeat Kitchen ABC juice - apple beetroot carrot blend"
+        }
+      ]
+    },
+    {
+      "name": "Special Drinks",
+      "slug": "special-drinks",
+      "description": "Unique drinks that go beyond the usual menu.",
+      "image": "/images/coconut-milk-menu.png",
+      "imageAlt": "Coconut milk drink",
+      "accent": "citrus",
+      "items": [
+        {
+          "name": "Coconut Milk",
+          "description": "A clean special drink with a smooth, tropical finish.",
+          "sizes": ["350ml"],
+          "image": "/images/coconut-milk-menu.png",
+          "imageAlt": "Coconut milk in a glass",
+          "tag": "Special"
+        }
+      ]
+    },
+    {
+      "name": "Diet Bowls",
+      "slug": "diet-bowls",
+      "description": "Balanced bowls made for fuller meals and active routines.",
+      "image": "/images/sprouts-diet-bowl-menu.png",
+      "imageAlt": "Sprouts diet bowl",
+      "accent": "leaf",
+      "items": [
+        {
+          "name": "Sprouts Diet Bowl",
+          "description": "A clean sprouts bowl with crunch and balance.",
+          "image": "/images/sprouts-diet-bowl-menu.png",
+          "imageAlt": "Sprouts diet bowl"
+        },
+        {
+          "name": "Egg Protein Bowl",
+          "description": "A simple protein-focused bowl for a quick meal.",
+          "image": "/images/egg-protein-bowl-menu.png",
+          "imageAlt": "Egg protein bowl"
+        },
+        {
+          "name": "Paneer Protein Bowl",
+          "description": "A paneer-led bowl with a satisfying, meal-like feel.",
+          "image": "/images/paneer-protein-bowl-menu.png",
+          "imageAlt": "Paneer protein bowl",
+          "tag": "Fuel"
+        }
+      ]
+    },
+    {
+      "name": "Diet Shakes",
+      "slug": "diet-shakes",
+      "description": "Creamy, filling shakes made for gym days or snack breaks.",
+      "image": "/images/red-banana-shake-menu.png",
+      "imageAlt": "Red banana shake",
+      "accent": "clay",
+      "items": [
+        {
+          "name": "Red Banana Shake",
+          "description": "A smooth 350ml shake with a naturally rich base.",
+          "sizes": ["350ml"],
+          "image": "/images/red-banana-shake-menu.png",
+          "imageAlt": "Red banana shake in a glass"
+        },
+        {
+          "name": "Weight Gain Protein Shake",
+          "description": "A fuller protein shake for bigger appetite days.",
+          "sizes": ["350ml"],
+          "image": "/images/weight-gain-protein-shake-menu.png",
+          "imageAlt": "Weight gain protein shake"
+        },
+        {
+          "name": "Weight Loss Protein Shake",
+          "description": "A lighter protein blend for focused routines.",
+          "sizes": ["350ml"],
+          "image": "/images/weight-loss-protein-shake-menu.png",
+          "imageAlt": "Weight loss protein shake"
+        }
+      ]
+    },
+    {
+      "name": "Cheat Meals",
+      "slug": "cheat-meals",
+      "description": "Warm, familiar options for snack cravings and easy evenings.",
+      "image": "/images/plain-maggi-menu.png",
+      "imageAlt": "Plain Maggi bowl",
+      "accent": "citrus",
+      "items": [
+        {
+          "name": "Plain Maggi",
+          "description": "A simple bowl of warm comfort.",
+          "image": "/images/plain-maggi-menu.png",
+          "imageAlt": "Plain Maggi noodles bowl"
+        },
+        {
+          "name": "Veggie Maggi",
+          "description": "Maggi with vegetables for extra color and bite.",
+          "image": "/images/veggie-maggi-menu.png",
+          "imageAlt": "Veggie Maggi noodles bowl"
+        },
+        {
+          "name": "Egg Maggi",
+          "description": "A warmer, protein-touched comfort bowl.",
+          "image": "/images/egg-maggi-menu.png",
+          "imageAlt": "Egg Maggi noodles bowl"
+        }
+      ]
+    },
+    {
+      "name": "Breads",
+      "slug": "breads",
+      "description": "Quick, nutty and sweet bread options for snack time.",
+      "image": "/images/peanut-butter-bread-menu.png",
+      "imageAlt": "Peanut butter bread",
+      "accent": "clay",
+      "items": [
+        {
+          "name": "Peanut Butter Bread",
+          "description": "A quick, nutty snack for an energy lift.",
+          "image": "/images/peanut-butter-bread-menu.png",
+          "imageAlt": "Peanut butter spread on bread"
+        },
+        {
+          "name": "Nutella Bread",
+          "description": "A sweet bread option for treat moments.",
+          "image": "/images/nutella-bread-menu.png",
+          "imageAlt": "Nutella spread on bread"
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "eyebrow": "Need help choosing?",
+    "title": "Tell us your mood and we will point you to the right bowl.",
+    "description": "Ask for fresh availability, lighter picks, protein options or comfort meals before ordering.",
+    "image": "/images/classic-fruit-bowl-mix-menu.png",
+    "imageAlt": "Classic fruit bowl mix",
+    "primaryButton": {
+      "label": "Contact Kitchen",
+      "href": "/contact"
+    },
+    "secondaryButton": {
+      "label": "Order on Zomato",
+      "href": "https://zomato.onelink.me/xqzv/62frd30f",
+      "external": true
+    }
+  }
+}

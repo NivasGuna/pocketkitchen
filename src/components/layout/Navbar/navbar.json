@@ -1,0 +1,43 @@
+{
+  "brand": {
+    "name": "Pockeat Kitchen",
+    "logo": "/images/pocket-kitchen-logo.jpeg",
+    "logoAlt": "Pockeat Kitchen logo"
+  },
+  "links": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "About",
+      "href": "/about"
+    },
+    {
+      "label": "Menu",
+      "href": "/menu"
+    },
+    {
+      "label": "Gallery",
+      "href": "/gallery"
+    },
+    {
+      "label": "Contact",
+      "href": "/contact"
+    }
+  ],
+  "cta": {
+    "label": "Order Now",
+    "href": "https://zomato.onelink.me/xqzv/62frd30f",
+    "external": true
+  },
+  "secondaryCta": {
+    "label": "Call",
+    "href": "tel:8700535811"
+  },
+  "mobile": {
+    "openLabel": "Open navigation menu",
+    "title": "Menu",
+    "description": "Navigate Pockeat Kitchen pages"
+  }
+}

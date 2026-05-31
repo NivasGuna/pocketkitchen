@@ -1,0 +1,289 @@
+{
+  "seo": {
+    "title": "Pockeat Kitchen | Healthy Food, Fruit Bowls and Juices in Chennai",
+    "description": "Order fresh fruit bowls, juices, diet bowls, protein shakes and healthy comfort meals from Pockeat Kitchen in Taramani, Chennai.",
+    "canonical": "/",
+    "keywords": [
+      "Pockeat Kitchen Chennai",
+      "Pockeat Kitchen healthy food",
+      "Pockeat Kitchen fruit bowls",
+      "Pockeat Kitchen juices",
+      "Pockeat Kitchen diet bowls",
+      "Pockeat Kitchen diet shakes",
+      "healthy food delivery Chennai",
+      "fruit bowls Taramani",
+      "protein shakes Chennai"
+    ],
+    "openGraph": {
+      "title": "Pockeat Kitchen | Healthy Food, Fruit Bowls and Juices in Chennai",
+      "description": "Fresh bowls, juices, protein shakes and comfort meals made daily in Taramani, Chennai.",
+      "image": "/images/og-pocket-kitchen.jpeg",
+      "imageAlt": "Pockeat Kitchen healthy food logo and fresh food brand mark"
+    },
+    "twitter": {
+      "title": "Pockeat Kitchen | Healthy Food in Chennai",
+      "description": "Fresh fruit bowls, juices, diet bowls and protein shakes from Pockeat Kitchen.",
+      "image": "/images/og-pocket-kitchen.jpeg"
+    }
+  },
+  "hero": {
+    "slides": [
+      {
+        "badge": "Healthy food at pocket price",
+        "title": "Fresh bowls, clean fuel and comfort cravings.",
+        "description": "Pockeat Kitchen serves vibrant fruit bowls, juices, protein shakes and warm cheat meals made for everyday energy in Taramani, Chennai.",
+        "image": "/images/home-carousel-1.jpg",
+        "imageAlt": "Pockeat Kitchen healthy food spread with fresh bowls and juices",
+        "imagePosition": "center",
+        "primaryButton": {
+          "label": "Explore the Menu",
+          "href": "/menu"
+        },
+        "secondaryButton": {
+          "label": "Order on Zomato",
+          "href": "https://zomato.onelink.me/xqzv/62frd30f",
+          "external": true
+        },
+        "stats": [
+          {
+            "value": "7+",
+            "label": "Categories"
+          },
+          {
+            "value": "25+",
+            "label": "Fresh Picks"
+          },
+          {
+            "value": "Daily",
+            "label": "Prep"
+          }
+        ]
+      },
+      {
+        "badge": "Fruit bowls and juices",
+        "title": "Bright portions for Chennai workdays.",
+        "description": "Hydrating fruit bowls, fresh juices and diet-friendly picks built for quick lunches, gym breaks and lighter dinners.",
+        "image": "/images/home-carousel-2.jpg",
+        "imageAlt": "Fresh Pockeat Kitchen fruit bowls and juices arranged for delivery",
+        "imagePosition": "center",
+        "primaryButton": {
+          "label": "See Fruit Bowls",
+          "href": "/menu#fruit-bowls"
+        },
+        "secondaryButton": {
+          "label": "WhatsApp Us",
+          "href": "https://wa.me/918700535811",
+          "external": true
+        },
+        "stats": [
+          {
+            "value": "Fruit",
+            "label": "Daily"
+          },
+          {
+            "value": "Juices",
+            "label": "Fresh"
+          },
+          {
+            "value": "Taramani",
+            "label": "Chennai"
+          }
+        ]
+      },
+      {
+        "badge": "Protein bowls and shakes",
+        "title": "Clean energy without making food complicated.",
+        "description": "Choose paneer bowls, egg protein bowls, sprouts, red banana shakes and focused diet shakes when your day needs more fuel.",
+        "image": "/images/home-carousel-3.jpg",
+        "imageAlt": "Pockeat Kitchen protein bowl and diet shake for healthy eating",
+        "imagePosition": "center",
+        "primaryButton": {
+          "label": "View Diet Picks",
+          "href": "/menu#diet-bowls"
+        },
+        "secondaryButton": {
+          "label": "Ask for Recommendations",
+          "href": "/contact"
+        },
+        "stats": [
+          {
+            "value": "Protein",
+            "label": "Bowls"
+          },
+          {
+            "value": "Shakes",
+            "label": "Diet"
+          },
+          {
+            "value": "Simple",
+            "label": "Orders"
+          }
+        ]
+      }
+    ]
+  },
+  "categoryShowcase": {
+    "eyebrow": "What we serve",
+    "title": "A focused menu that moves from fruit to fuel.",
+    "description": "Start clean with bowls and juices, add protein when you need it, or keep the evening easy with warm comfort meals.",
+    "button": {
+      "label": "View Full Menu",
+      "href": "/menu"
+    },
+    "items": [
+      {
+        "title": "Fruit Bowls",
+        "description": "Watermelon, papaya, guava and mixed bowls prepared fresh.",
+        "image": "/images/energetic-fruit-bowl-mix-menu.png",
+        "imageAlt": "Pockeat Kitchen energetic mixed fruit bowl",
+        "badge": "Fresh"
+      },
+      {
+        "title": "Juices",
+        "description": "Watermelon, muskmelon, papaya, amla and ABC blends.",
+        "image": "/images/abc-juice-menu.png",
+        "imageAlt": "Pockeat Kitchen ABC juice with apple beetroot carrot",
+        "badge": "Hydrate"
+      },
+      {
+        "title": "Diet Bowls",
+        "description": "Sprouts, egg protein and paneer bowls for active routines.",
+        "image": "/images/paneer-protein-bowl-menu.png",
+        "imageAlt": "Pockeat Kitchen paneer protein bowl",
+        "badge": "Fuel"
+      },
+      {
+        "title": "Diet Shakes",
+        "description": "Red banana, weight gain and weight loss protein shakes.",
+        "image": "/images/red-banana-shake-menu.png",
+        "imageAlt": "Pockeat Kitchen red banana diet shake",
+        "badge": "Blend"
+      },
+      {
+        "title": "Cheat Meals",
+        "description": "Plain, veggie and egg Maggi for comfort-craving evenings.",
+        "image": "/images/veggie-maggi-menu.png",
+        "imageAlt": "Pockeat Kitchen veggie Maggi comfort meal",
+        "badge": "Warm"
+      },
+      {
+        "title": "Breads",
+        "description": "Peanut butter and Nutella breads for quick snack breaks.",
+        "image": "/images/peanut-butter-bread-menu.png",
+        "imageAlt": "Pockeat Kitchen peanut butter bread snack",
+        "badge": "Snack"
+      }
+    ]
+  },
+  "wellness": {
+    "eyebrow": "Made for everyday routines",
+    "title": "Healthy food that still feels like food.",
+    "description": "The menu is built for real Chennai days: lighter breakfasts, gym fuel, quick office lunches, evening cravings and direct ordering help when you want a recommendation.",
+    "image": "/images/home-hero-kitchen-platter.jpg",
+    "imageAlt": "Pockeat Kitchen premium spread of healthy bowls, juices and snacks",
+    "items": [
+      {
+        "icon": "Leaf",
+        "title": "Fresh-first portions",
+        "description": "Fruit, sprouts and juices are prepared in focused batches for better taste and texture."
+      },
+      {
+        "icon": "Dumbbell",
+        "title": "Fitness friendly",
+        "description": "Protein bowls and shakes support gym days, workdays and lighter dinner plans."
+      },
+      {
+        "icon": "IndianRupee",
+        "title": "Pocket friendly",
+        "description": "Healthy choices stay approachable with everyday portions and simple ordering."
+      }
+    ]
+  },
+  "why": {
+    "eyebrow": "Why choose us",
+    "title": "Small kitchen discipline, fresh food personality.",
+    "description": "Pockeat Kitchen keeps the menu compact, colorful and easy to browse so repeat orders feel effortless.",
+    "items": [
+      {
+        "icon": "Sparkles",
+        "title": "Clear categories",
+        "description": "Fruit bowls, juices, diet bowls, shakes, cheat meals and breads are easy to scan."
+      },
+      {
+        "icon": "HeartPulse",
+        "title": "Balanced choices",
+        "description": "Order light, protein-forward, hydrating or comfort-first depending on your day."
+      },
+      {
+        "icon": "MessageCircle",
+        "title": "Direct support",
+        "description": "WhatsApp the kitchen for current availability and quick recommendations."
+      }
+    ]
+  },
+  "process": {
+    "eyebrow": "Kitchen rhythm",
+    "title": "From fresh prep to your next break.",
+    "steps": [
+      {
+        "title": "Pick by appetite",
+        "description": "Choose a bowl, juice, shake or snack from a compact menu."
+      },
+      {
+        "title": "Ask what is fresh",
+        "description": "Message the kitchen for availability and lighter or protein-rich picks."
+      },
+      {
+        "title": "Order quickly",
+        "description": "Use Zomato or direct contact for a smooth ordering path."
+      }
+    ]
+  },
+  "galleryPreview": {
+    "eyebrow": "Food showcase",
+    "title": "Bright, honest food that looks like the day you want.",
+    "description": "Real bowls, juices and snacks from the kitchen, arranged in an editorial preview without changing the gallery page itself.",
+    "button": {
+      "label": "See Gallery",
+      "href": "/gallery"
+    },
+    "images": [
+      {
+        "image": "/images/healthy-food-spread-gallery.png",
+        "imageAlt": "Pockeat Kitchen healthy food gallery spread",
+        "caption": "Fresh spread"
+      },
+      {
+        "image": "/images/fruit-bowl-gallery.png",
+        "imageAlt": "Pockeat Kitchen fresh fruit bowl gallery photo",
+        "caption": "Fruit bowls"
+      },
+      {
+        "image": "/images/paneer-protein-bowl-gallery.png",
+        "imageAlt": "Pockeat Kitchen paneer protein bowl gallery photo",
+        "caption": "Protein bowls"
+      },
+      {
+        "image": "/images/veggie-maggi-gallery.png",
+        "imageAlt": "Pockeat Kitchen veggie Maggi gallery photo",
+        "caption": "Comfort meals"
+      }
+    ]
+  },
+  "cta": {
+    "eyebrow": "Ready when you are",
+    "title": "Order fresh, call the kitchen, or plan your next healthy break.",
+    "description": "Reach out for today's availability, quick recommendations or direct ordering help from Pockeat Kitchen.",
+    "image": "/images/home-carousel-4.jpg",
+    "imageAlt": "Pockeat Kitchen healthy bowls and fresh juice arranged on a premium food table",
+    "primaryButton": {
+      "label": "Contact the Kitchen",
+      "href": "/contact"
+    },
+    "secondaryButton": {
+      "label": "WhatsApp Us",
+      "href": "https://wa.me/918700535811",
+      "external": true
+    }
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "brand": {
+    "name": "Pockeat Kitchen",
+    "description": "Fresh bowls, juices, shakes and comfort meals prepared with care in Taramani, Chennai.",
+    "logo": "/images/pocket-kitchen-logo.jpeg",
+    "logoAlt": "Pockeat Kitchen logo"
+  },
+  "quickLinks": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "About",
+      "href": "/about"
+    },
+    {
+      "label": "Menu",
+      "href": "/menu"
+    },
+    {
+      "label": "Gallery",
+      "href": "/gallery"
+    },
+    {
+      "label": "Contact",
+      "href": "/contact"
+    }
+  ],
+  "columns": {
+    "quickLinks": "Quick Links",
+    "contact": "Contact",
+    "social": "Social",
+    "order": "Order"
+  },
+  "contact": {
+    "address": "Taramani, Chennai, Tamil Nadu",
+    "phone": "8700535811",
+    "phoneHref": "tel:8700535811",
+    "email": "pockeatkitchen@gmail.com",
+    "emailHref": "mailto:pockeatkitchen@gmail.com"
+  },
+  "socialLinks": [
+    {
+      "label": "WhatsApp",
+      "href": "https://wa.me/918700535811"
+    },
+    {
+      "label": "Zomato",
+      "href": "https://zomato.onelink.me/xqzv/62frd30f"
+    },
+    {
+      "label": "Instagram",
+      "href": "https://instagram.com/pockeatkitchen"
+    }
+  ],
+  "orderCta": {
+    "label": "Order on Zomato",
+    "href": "https://zomato.onelink.me/xqzv/62frd30f"
+  },
+  "whatsappCta": {
+    "label": "WhatsApp the kitchen",
+    "href": "https://wa.me/918700535811"
+  },
+  "swiggy": {
+    "label": "Swiggy coming soon",
+    "description": "Another delivery option is being prepared."
+  },
+  "copyright": {
+    "prefix": "©",
+    "brand": "Pockeat Kitchen",
+    "suffix": "All rights reserved."
+  }
+}

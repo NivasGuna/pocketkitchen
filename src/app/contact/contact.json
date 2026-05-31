@@ -1,0 +1,143 @@
+{
+  "seo": {
+    "title": "Contact Pockeat Kitchen | Order Healthy Food in Taramani",
+    "description": "Contact Pockeat Kitchen in Taramani, Chennai for orders, recommendations, menu availability and healthy food enquiries.",
+    "canonical": "/contact",
+    "keywords": [
+      "contact Pockeat Kitchen",
+      "order healthy food Chennai",
+      "Pockeat Kitchen contact",
+      "Pockeat Kitchen Chennai",
+      "Pockeat Kitchen phone",
+      "Pockeat Kitchen Taramani",
+      "healthy food delivery Taramani"
+    ],
+    "openGraph": {
+      "title": "Contact Pockeat Kitchen",
+      "description": "Call, WhatsApp or order fresh food from Pockeat Kitchen in Taramani, Chennai.",
+      "image": "/images/contact-fresh-kitchen-banner.jpg",
+      "imageAlt": "Fresh kitchen counter with healthy food styling"
+    },
+    "twitter": {
+      "title": "Contact Pockeat Kitchen",
+      "description": "Call, WhatsApp or order fresh food from Pockeat Kitchen in Taramani, Chennai.",
+      "image": "/images/contact-fresh-kitchen-banner.jpg"
+    }
+  },
+  "hero": {
+    "badge": "Get in touch",
+    "title": "Order fresh food or ask the kitchen what is best today.",
+    "description": "Reach Pockeat Kitchen for direct ordering help, current availability, recommendations and quick food enquiries.",
+    "image": "/images/contact-fresh-kitchen-banner.jpg",
+    "imageAlt": "Pockeat Kitchen contact page fresh kitchen counter prepared for healthy food service",
+    "imagePosition": "center",
+    "primaryButton": {
+      "label": "WhatsApp Us",
+      "href": "https://wa.me/918700535811",
+      "external": true
+    },
+    "secondaryButton": {
+      "label": "Call Now",
+      "href": "tel:8700535811",
+      "external": true
+    },
+    "stats": [
+      { "value": "Chennai", "label": "Location" },
+      { "value": "Fresh", "label": "Orders" },
+      { "value": "Quick", "label": "Support" }
+    ],
+    "supportingImages": [
+      {
+        "image": "/images/contact-fresh-kitchen-banner.jpg",
+        "imageAlt": "Pockeat Kitchen fresh drinks and healthy bowls arranged together"
+      },
+      {
+        "image": "/images/contact-page-food-image.png",
+        "imageAlt": "Fresh contact page food from Pockeat Kitchen"
+      }
+    ]
+  },
+  "contactDetails": {
+    "eyebrow": "Direct Contact",
+    "title": "Talk to the kitchen.",
+    "description": "Use the fastest channel for current menu availability and ordering support.",
+    "items": [
+      {
+        "icon": "Phone",
+        "title": "Phone",
+        "value": "8700535811",
+        "href": "tel:8700535811"
+      },
+      {
+        "icon": "MessageCircle",
+        "title": "WhatsApp",
+        "value": "Message the kitchen",
+        "href": "https://wa.me/918700535811"
+      },
+      {
+        "icon": "Mail",
+        "title": "Email",
+        "value": "pockeatkitchen@gmail.com",
+        "href": "mailto:pockeatkitchen@gmail.com"
+      }
+    ]
+  },
+  "socials": {
+    "title": "Follow our journey",
+    "links": [
+      {
+        "icon": "Instagram",
+        "href": "https://instagram.com/pockeatkitchen",
+        "label": "@pockeatkitchen"
+      },
+      {
+        "icon": "Facebook",
+        "href": "https://facebook.com/pockeatkitchen",
+        "label": "Pockeat Kitchen"
+      }
+    ]
+  },
+  "businessTiming": {
+    "eyebrow": "Business Hours",
+    "title": "When we serve.",
+    "description": "Our kitchen is open daily to serve you fresh food exactly when you need it.",
+    "image": "/images/contact-page-food-image.png",
+    "imageAlt": "Fresh contact page food from Pockeat Kitchen",
+    "hours": [
+      {
+        "day": "Monday to Friday",
+        "time": "10:00 AM to 11:00 PM"
+      },
+      {
+        "day": "Saturday to Sunday",
+        "time": "11:00 AM to 11:30 PM"
+      }
+    ]
+  },
+  "location": {
+    "eyebrow": "Kitchen area",
+    "title": "Serving from Taramani.",
+    "description": "Contact the kitchen for delivery availability, pickup guidance and current ordering options.",
+    "address": "Taramani, Chennai, Tamil Nadu",
+    "featureImage": "/images/contact-page-food-image.png",
+    "featureImageAlt": "Pockeat Kitchen fresh food prepared for contact and ordering support",
+    "mapTitle": "Pockeat Kitchen location near Taramani, Chennai",
+    "mapSrc": "https://www.google.com/maps?q=Taramani%2C%20Chennai&output=embed"
+  },
+  "cta": {
+    "eyebrow": "Prefer direct ordering?",
+    "title": "Order on Zomato or WhatsApp the kitchen for help.",
+    "description": "Choose the fastest channel and we will keep the food side simple.",
+    "image": "/images/contact-fresh-kitchen-banner.jpg",
+    "imageAlt": "Warm customer service and kitchen background",
+    "primaryButton": {
+      "label": "Order on Zomato",
+      "href": "https://zomato.onelink.me/xqzv/62frd30f",
+      "external": true
+    },
+    "secondaryButton": {
+      "label": "View Menu",
+      "href": "/menu"
+    }
+  }
+}

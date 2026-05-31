@@ -1,0 +1,167 @@
+{
+  "seo": {
+    "title": "About Pockeat Kitchen | Fresh Healthy Food in Taramani",
+    "description": "Learn about Pockeat Kitchen, a Taramani kitchen focused on fresh bowls, juices, protein shakes and pocket-friendly healthy meals.",
+    "canonical": "/about",
+    "keywords": [
+      "about Pockeat Kitchen",
+      "Pockeat Kitchen Chennai",
+      "Pockeat Kitchen healthy food",
+      "healthy kitchen Taramani",
+      "fresh food Chennai",
+      "healthy meals Chennai"
+    ],
+    "openGraph": {
+      "title": "About Pockeat Kitchen",
+      "description": "Fresh, healthy food prepared daily in Taramani, Chennai.",
+      "image": "/images/about-fresh-fruit-bowls.jpg",
+      "imageAlt": "Fresh fruit bowl on a dark kitchen surface"
+    },
+    "twitter": {
+      "title": "About Pockeat Kitchen",
+      "description": "Fresh, healthy food prepared daily in Taramani, Chennai.",
+      "image": "/images/about-fresh-fruit-bowls.jpg"
+    }
+  },
+  "hero": {
+    "badge": "About the kitchen",
+    "title": "Healthy eating made easy, fresh and pocket friendly.",
+    "description": "Pockeat Kitchen is built around everyday food that respects your routine: quick to order, bright in flavor and prepared with simple, fresh ingredients.",
+    "image": "/images/about-fresh-fruit-bowls.jpg",
+    "imageAlt": "A colorful fresh fruit bowl prepared for a healthy meal",
+    "imagePosition": "center",
+    "primaryButton": {
+      "label": "Explore Menu",
+      "href": "/menu"
+    },
+    "secondaryButton": {
+      "label": "Get in Touch",
+      "href": "/contact"
+    },
+    "stats": [
+      {
+        "value": "Fresh",
+        "label": "Daily Prep"
+      },
+      {
+        "value": "Local",
+        "label": "Chennai"
+      },
+      {
+        "value": "Simple",
+        "label": "Food"
+      }
+    ]
+  },
+  "story": {
+    "eyebrow": "Our story",
+    "title": "A focused menu for people who want better quick food.",
+    "description": "The idea is simple: food should be nourishing without becoming complicated. Pockeat Kitchen brings together fruit bowls, juices, protein bowls, shakes and comfort meals so customers can choose by mood, routine or appetite.",
+    "image": "/images/contact-fresh-kitchen-banner.jpg",
+    "imageAlt": "Pockeat Kitchen fresh bowls and drinks prepared on a kitchen counter",
+    "points": [
+      "Fresh portions for busy workdays and gym routines.",
+      "Fruit-forward options for lighter meals and snacks.",
+      "Comfort meals that keep the menu familiar and approachable."
+    ]
+  },
+  "quality": {
+    "eyebrow": "Kitchen quality",
+    "title": "Small-batch preparation with clean, practical choices.",
+    "description": "Every section of the menu is designed to be easy to understand, easy to order and satisfying without unnecessary heaviness.",
+    "cards": [
+      {
+        "icon": "Sprout",
+        "title": "Produce led",
+        "description": "Fruit and bowls stay at the center of the kitchen's everyday rhythm."
+      },
+      {
+        "icon": "HeartPulse",
+        "title": "Balanced portions",
+        "description": "Meals are built to feel complete while keeping the menu light and flexible."
+      },
+      {
+        "icon": "Clock",
+        "title": "Daily freshness",
+        "description": "The menu supports quick service without losing the feel of fresh preparation."
+      }
+    ]
+  },
+  "freshIngredients": {
+    "eyebrow": "Homemade-style food",
+    "title": "Simple ingredients, carefully prepared.",
+    "description": "We believe in transparency and letting natural flavors shine. Our kitchen avoids heavy processing, focusing instead on whole foods that bring you clean energy throughout your day.",
+    "images": [
+      {
+        "src": "/images/energetic-fruit-bowl.jpeg",
+        "alt": "Freshly cut fruits for Pockeat Kitchen bowls"
+      },
+      {
+        "src": "/images/muskmelon-gallery.jpeg",
+        "alt": "Muskmelon fruit prepared for Pockeat Kitchen bowls"
+      },
+      {
+        "src": "/images/home-hero-kitchen-platter.jpg",
+        "alt": "Pockeat Kitchen counter showing healthy bowls and ingredients"
+      },
+      {
+        "src": "/images/menu-protein-shake-banner.jpg",
+        "alt": "Fresh protein drinks from Pockeat Kitchen"
+      }
+    ]
+  },
+  "reasons": {
+    "eyebrow": "Why customers choose us",
+    "title": "Food for energy, cravings and the everyday middle.",
+    "items": [
+      {
+        "title": "Healthy without the lecture",
+        "description": "The menu keeps health practical with fruit, protein, sprouts and fresh juices."
+      },
+      {
+        "title": "Choices for different moods",
+        "description": "Light bowls, strong shakes, fresh drinks and warm Maggi-style meals sit together clearly."
+      },
+      {
+        "title": "Made for repeat ordering",
+        "description": "Simple categories and approachable portions make the kitchen easy to return to."
+      }
+    ]
+  },
+  "trustHighlights": {
+    "eyebrow": "Our commitment",
+    "title": "Built for repeat ordering in the neighborhood.",
+    "stats": [
+      {
+        "value": "25+",
+        "label": "Menu Picks",
+        "description": "Fruit bowls, juices, diet bowls, shakes, breads and comfort meals."
+      },
+      {
+        "value": "Daily",
+        "label": "Fresh Prep",
+        "description": "Focused batches help bowls and drinks stay bright, crisp and easy to enjoy."
+      },
+      {
+        "value": "Direct",
+        "label": "Kitchen Help",
+        "description": "Customers can ask what is fresh and get quick recommendations before ordering."
+      }
+    ]
+  },
+  "cta": {
+    "eyebrow": "Taste the idea",
+    "title": "Start with a bowl, a juice or today's protein pick.",
+    "description": "Ask for the freshest recommendations and order what fits your day.",
+    "image": "/images/energetic-fruit-bowl.jpeg",
+    "imageAlt": "Fresh ingredients arranged beautifully",
+    "primaryButton": {
+      "label": "View Menu",
+      "href": "/menu"
+    },
+    "secondaryButton": {
+      "label": "Contact Us",
+      "href": "/contact"
+    }
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "seo": {
+    "title": "Pockeat Kitchen Gallery | Bowls, Juices and Fresh Food Photos",
+    "description": "Browse Pockeat Kitchen's food gallery with fruit bowls, juices, shakes, protein bowls, breads and comfort meals.",
+    "canonical": "/gallery",
+    "keywords": [
+      "Pockeat Kitchen gallery",
+      "Pockeat Kitchen food photos",
+      "Pockeat Kitchen fruit bowls",
+      "Pockeat Kitchen juices",
+      "food photos Chennai",
+      "healthy bowls gallery",
+      "juice gallery Taramani"
+    ],
+    "openGraph": {
+      "title": "Pockeat Kitchen Gallery",
+      "description": "A visual showcase of fresh bowls, juices, shakes and comfort meals.",
+      "image": "/images/healthy-food-spread-gallery.png",
+      "imageAlt": "A healthy food gallery spread from Pockeat Kitchen"
+    },
+    "twitter": {
+      "title": "Pockeat Kitchen Gallery",
+      "description": "A visual showcase of fresh bowls, juices, shakes and comfort meals.",
+      "image": "/images/healthy-food-spread-gallery.png"
+    }
+  },
+  "hero": {
+    "badge": "Food showcase",
+    "title": "Fresh bowls, bright drinks and comfort plates in frame.",
+    "description": "Explore the colors and textures behind Pockeat Kitchen's menu, from fruit bowls and juices to warm snack favorites.",
+    "image": "/images/healthy-food-spread-gallery.png",
+    "imageAlt": "A healthy food gallery spread from Pockeat Kitchen",
+    "imagePosition": "center",
+    "primaryButton": {
+      "label": "View Menu",
+      "href": "/menu"
+    },
+    "secondaryButton": {
+      "label": "Contact Kitchen",
+      "href": "/contact"
+    },
+    "stats": [
+      { "value": "8", "label": "Dishes" },
+      { "value": "Fresh", "label": "Daily" },
+      { "value": "Real", "label": "Food" }
+    ],
+    "supportingImages": [
+      {
+        "image": "/images/fruit-bowl-gallery.png",
+      "imageAlt": "Fresh fruit bowl from Pockeat Kitchen"
+      },
+      {
+        "image": "/images/berry-smoothie-gallery.png",
+      "imageAlt": "Berry smoothie style drink from Pockeat Kitchen"
+      }
+    ]
+  },
+  "featured": {
+    "image": "/images/healthy-food-spread-gallery.png",
+    "imageAlt": "A healthy food gallery spread from Pockeat Kitchen",
+    "caption": "The full spread — fruit bowls, juices and protein plates"
+  },
+  "images": [
+    {
+      "image": "/images/healthy-food-spread-gallery.png",
+      "imageAlt": "A healthy food gallery spread from Pockeat Kitchen",
+      "caption": "The Full Spread",
+      "category": "All",
+      "span": "wide"
+    },
+    {
+      "image": "/images/fruit-bowl-gallery.png",
+      "imageAlt": "Fresh fruit bowl from Pockeat Kitchen",
+      "caption": "Fruit Bowl",
+      "category": "Fruit Bowls",
+      "span": "tall"
+    },
+    {
+      "image": "/images/paneer-protein-bowl-gallery.png",
+      "imageAlt": "Paneer protein bowl from Pockeat Kitchen",
+      "caption": "Paneer Protein Bowl",
+      "category": "Diet Bowls",
+      "span": "normal"
+    },
+    {
+      "image": "/images/berry-smoothie-gallery.png",
+      "imageAlt": "Berry smoothie style drink from Pockeat Kitchen",
+      "caption": "Berry Smoothie",
+      "category": "Shakes",
+      "span": "normal"
+    },
+    {
+      "image": "/images/fruit-medley-gallery.png",
+      "imageAlt": "Fruit medley bowl from Pockeat Kitchen",
+      "caption": "Fruit Medley",
+      "category": "Fruit Bowls",
+      "span": "wide"
+    },
+    {
+      "image": "/images/paneer-protein-gallery.jpeg",
+      "imageAlt": "Paneer protein bowl with vegetables from Pockeat Kitchen",
+      "caption": "Protein & Veggies",
+      "category": "Diet Bowls",
+      "span": "normal"
+    },
+    {
+      "image": "/images/veggie-maggi-gallery.png",
+      "imageAlt": "Veggie Maggi comfort bowl from Pockeat Kitchen",
+      "caption": "Veggie Maggi",
+      "category": "Cheat Meals",
+      "span": "normal"
+    },
+    {
+      "image": "/images/muskmelon-gallery.jpeg",
+      "imageAlt": "Muskmelon fruit bowl from Pockeat Kitchen",
+      "caption": "Muskmelon Bowl",
+      "category": "Fruit Bowls",
+      "span": "normal"
+    }
+  ],
+  "cta": {
+    "eyebrow": "Craving something here?",
+    "title": "Pick a photo, ask what is fresh, and order your next plate.",
+    "description": "The kitchen can guide you toward current availability and the best fit for your appetite.",
+    "image": "/images/fruit-medley-gallery.png",
+    "imageAlt": "Fresh Pockeat Kitchen fruit medley beautifully arranged",
+    "primaryButton": {
+      "label": "Contact Kitchen",
+      "href": "/contact"
+    },
+    "secondaryButton": {
+      "label": "View Menu",
+      "href": "/menu"
+    }
+  }
+}

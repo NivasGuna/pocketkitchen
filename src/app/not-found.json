@@ -1,0 +1,9 @@
+{
+  "eyebrow": "Page not found",
+  "title": "This page is not on the kitchen counter.",
+  "description": "Head back to the menu or home page to continue exploring Pockeat Kitchen.",
+  "button": {
+    "label": "Back Home",
+    "href": "/"
+  }
+}
